@@ -1,0 +1,3 @@
+### Nextcoud
+
+Файл конфигурации nextcloud.
